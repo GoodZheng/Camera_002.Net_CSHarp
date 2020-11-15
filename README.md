@@ -1,4 +1,6 @@
 # 介绍
+C# winForm利用AForge库实现对摄像头的调用、拍摄和保存
+C# winForm USES AForge library to call, shoot and save the camera
 
 本人2018年大二时开始学习C#，至今仍甚是喜爱这门语言。下面这些小项目记录了我在学习的过程中的一些收获及成果，我在这里把它们分享出来，也为互联网资源贡献自己的一份非常非常渺小的力量，希望能够帮助到有需要的朋友。
 
